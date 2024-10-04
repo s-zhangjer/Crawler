@@ -38,8 +38,8 @@
   "name":"Crawler2",
   "resources":[
     {"id":{"name":"obj_demoBaddie","path":"objects/obj_demoBaddie/obj_demoBaddie.yy",},},
-    {"id":{"name":"obj_door1","path":"objects/obj_door1/obj_door1.yy",},},
     {"id":{"name":"obj_door1_opening","path":"objects/obj_door1_opening/obj_door1_opening.yy",},},
+    {"id":{"name":"obj_door1","path":"objects/obj_door1/obj_door1.yy",},},
     {"id":{"name":"obj_exit1","path":"objects/obj_exit1/obj_exit1.yy",},},
     {"id":{"name":"obj_globals","path":"objects/obj_globals/obj_globals.yy",},},
     {"id":{"name":"obj_keycard1_room1","path":"objects/obj_keycard1_room1/obj_keycard1_room1.yy",},},
@@ -49,6 +49,7 @@
     {"id":{"name":"obj_startb","path":"objects/obj_startb/obj_startb.yy",},},
     {"id":{"name":"obj_wall1","path":"objects/obj_wall1/obj_wall1.yy",},},
     {"id":{"name":"obj_wall2","path":"objects/obj_wall2/obj_wall2.yy",},},
+    {"id":{"name":"obj_keycard1_objective_room1","path":"objects/obj_keycard1_objective_room1/obj_keycard1_objective_room1.yy",},},
     {"id":{"name":"pth_demoBaddie","path":"paths/pth_demoBaddie/pth_demoBaddie.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
