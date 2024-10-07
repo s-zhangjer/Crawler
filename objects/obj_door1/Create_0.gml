@@ -3,4 +3,5 @@
 
 if(global.opened_door1_room1){
 	instance_destroy(obj_door1);
+	instance_destroy(obj_door1_top);
 }
