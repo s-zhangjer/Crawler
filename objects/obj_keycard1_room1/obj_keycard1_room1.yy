@@ -9,8 +9,8 @@
   "name":"obj_keycard1_room1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_objectives",
+    "path":"folders/Objects/obj_objectives.yy",
   },
   "parentObjectId":null,
   "persistent":false,
