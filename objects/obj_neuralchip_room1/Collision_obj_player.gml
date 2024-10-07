@@ -8,10 +8,11 @@ var _inst = instance_create_layer(96, 320, "instances_top", obj_dialogue);
 with(_inst)
 {
 	text[0] = "Your neuralchip should tell you where everything is.";
-	text[1] = "I don't have time to explain, but make it out of here.";
+	text[1] = "I don't have time to explain, but you need to make it out of here!";
 	text[2] = "Your goal is to find a trace of the net-terminal gene.";
-	text[3] = "Good Luck!";
-	text_last = 3;
+	text[3] = "Good luck";
+	text[4] = "";
+	text_last = 4;
 	text_width = 256;
 	text_x = x;
 	text_y = y;

@@ -11,6 +11,8 @@ if(global.room1_firstLoad){
 	global.has_keycard1_room1 = false;
 	global.has_neuralchip_room1 = false;
 	global.opened_door1_room1 = false;
+	global.has_keycard2_room1 = false;
+	global.opened_door2_room1 = false;
 	global.room1_firstLoad = false;
 }
 
