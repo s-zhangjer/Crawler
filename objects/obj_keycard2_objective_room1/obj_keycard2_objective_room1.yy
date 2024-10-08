@@ -35,5 +35,5 @@
     "path":"sprites/spr_keycard2/spr_keycard2.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

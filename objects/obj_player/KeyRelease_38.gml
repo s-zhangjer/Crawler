@@ -1,4 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-sprite_index = spr_explorerd;
-image_speed = 0;
+
+up_keydown = false;
+if(!(right_keydown || left_keydown || down_keydown)){
+	image_speed = 0;
+}

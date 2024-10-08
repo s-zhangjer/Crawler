@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+down_keydown = true;
 if(sprite_index != spr_explorerd)
 {
 	sprite_index = spr_explorerd;
