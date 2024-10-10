@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall1",
+  "%Name":"obj_wall1_destructible",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_gravbeam","path":"objects/obj_gravbeam/obj_gravbeam.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_wall1",
+  "name":"obj_wall1_destructible",
   "overriddenProperties":[],
   "parent":{
     "name":"obj_obstacles",
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_wall1",
-    "path":"sprites/spr_wall1/spr_wall1.yy",
+    "name":"spr_wall1_destructible",
+    "path":"sprites/spr_wall1_destructible/spr_wall1_destructible.yy",
   },
   "spriteMaskId":null,
   "visible":true,

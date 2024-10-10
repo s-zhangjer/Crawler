@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall1",
+  "%Name":"obj_gravbeamer_objective",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_gravbeam","path":"objects/obj_gravbeam/obj_gravbeam.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_wall1",
+  "name":"obj_gravbeamer_objective",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_obstacles",
-    "path":"folders/Objects/obj_obstacles.yy",
+    "name":"obj_objectives",
+    "path":"folders/Objects/obj_objectives.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,11 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_wall1",
-    "path":"sprites/spr_wall1/spr_wall1.yy",
+    "name":"spr_gravbeamer",
+    "path":"sprites/spr_gravbeamer/spr_gravbeamer.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
