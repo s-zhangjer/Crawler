@@ -4,7 +4,7 @@ image_speed = 0;
 if(global.has_gravbeamer){
 	instance_destroy(obj_gravbeamer_top);
 	instance_destroy()
-	obj_keycard1_objective_room1.visible = true;
+	obj_gravbeamer_objective.visible = true;
 	
 	var _inst = instance_create_layer(96, 320, "instances_top", obj_dialogue);
 	with(_inst)
