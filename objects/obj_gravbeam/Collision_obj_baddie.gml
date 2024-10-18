@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
 if(movement_dir == "left"){
 	instance_create_layer(x + 32, y, "Instances", obj_gravbeam_explosion);
 } else if (movement_dir == "right") {
@@ -10,7 +9,7 @@ if(movement_dir == "left"){
 } else if (movement_dir == "down") {
 	instance_create_layer(x, y - 32, "Instances", obj_gravbeam_explosion);
 }
-global.gravbeam_shots -= 1;
 
 global.gravbeam_shooting = false;
 instance_destroy();
+instance_destroy(other);
