@@ -36,7 +36,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"Crawler2",
   "resources":[
@@ -96,7 +96,6 @@
     {"id":{"name":"spr_explorerl","path":"sprites/spr_explorerl/spr_explorerl.yy",},},
     {"id":{"name":"spr_explorerr","path":"sprites/spr_explorerr/spr_explorerr.yy",},},
     {"id":{"name":"spr_exploreru","path":"sprites/spr_exploreru/spr_exploreru.yy",},},
-    {"id":{"name":"spr_player2u","path":"sprites/spr_player2u/spr_player2u.yy",},},
     {"id":{"name":"spr_fow_1","path":"sprites/spr_fow_1/spr_fow_1.yy",},},
     {"id":{"name":"spr_fow_2","path":"sprites/spr_fow_2/spr_fow_2.yy",},},
     {"id":{"name":"spr_globals","path":"sprites/spr_globals/spr_globals.yy",},},
@@ -112,6 +111,9 @@
     {"id":{"name":"spr_nextobj_room1","path":"sprites/spr_nextobj_room1/spr_nextobj_room1.yy",},},
     {"id":{"name":"spr_placeholder","path":"sprites/spr_placeholder/spr_placeholder.yy",},},
     {"id":{"name":"spr_player2d","path":"sprites/spr_player2d/spr_player2d.yy",},},
+    {"id":{"name":"spr_player2l","path":"sprites/spr_player2l/spr_player2l.yy",},},
+    {"id":{"name":"spr_player2r","path":"sprites/spr_player2r/spr_player2r.yy",},},
+    {"id":{"name":"spr_player2u","path":"sprites/spr_player2u/spr_player2u.yy",},},
     {"id":{"name":"spr_startb","path":"sprites/spr_startb/spr_startb.yy",},},
     {"id":{"name":"spr_tileset_space_2","path":"sprites/spr_tileset_space_2/spr_tileset_space_2.yy",},},
     {"id":{"name":"spr_tileset_spacestation","path":"sprites/spr_tileset_spacestation/spr_tileset_spacestation.yy",},},

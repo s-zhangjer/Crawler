@@ -12,3 +12,10 @@ if (char_current < _len)
 }
 var _str = string_copy(text[text_current], 1, char_current);
 draw_text(text_x, text_y,  _str);
+
+draw_set_font(fnt_dialogue);
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
+draw_set_color(c_white);
+
+draw_text(96, 448,  "Next Objective:");
