@@ -36,7 +36,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Crawler2",
   "resources":[
@@ -77,11 +77,15 @@
     {"id":{"name":"obj_wall1_destructible","path":"objects/obj_wall1_destructible/obj_wall1_destructible.yy",},},
     {"id":{"name":"obj_wall1","path":"objects/obj_wall1/obj_wall1.yy",},},
     {"id":{"name":"obj_wall2","path":"objects/obj_wall2/obj_wall2.yy",},},
+    {"id":{"name":"pth_baddie3_room1","path":"paths/pth_baddie3_room1/pth_baddie3_room1.yy",},},
+    {"id":{"name":"pth_baddie1_room1","path":"paths/pth_baddie1_room1/pth_baddie1_room1.yy",},},
+    {"id":{"name":"pth_baddie2_room1","path":"paths/pth_baddie2_room1/pth_baddie2_room1.yy",},},
     {"id":{"name":"pth_baddie2","path":"paths/pth_baddie2/pth_baddie2.yy",},},
     {"id":{"name":"pth_baddie3","path":"paths/pth_baddie3/pth_baddie3.yy",},},
     {"id":{"name":"pth_demoBaddie","path":"paths/pth_demoBaddie/pth_demoBaddie.yy",},},
-    {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
+    {"id":{"name":"rm_level1_old","path":"rooms/rm_level1_old/rm_level1_old.yy",},},
     {"id":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
+    {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"id":{"name":"scr_string_wrap","path":"scripts/scr_string_wrap/scr_string_wrap.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
@@ -129,8 +133,9 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
-    {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
+    {"roomId":{"name":"rm_level1_old","path":"rooms/rm_level1_old/rm_level1_old.yy",},},
     {"roomId":{"name":"rm_level2","path":"rooms/rm_level2/rm_level2.yy",},},
+    {"roomId":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
