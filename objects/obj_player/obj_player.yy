@@ -39,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_explorerd",
-    "path":"sprites/spr_explorerd/spr_explorerd.yy",
+    "name":"spr_player2u",
+    "path":"sprites/spr_player2u/spr_player2u.yy",
   },
   "spriteMaskId":null,
   "visible":true,

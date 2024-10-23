@@ -15,7 +15,7 @@ if(global.room1_firstLoad){
 	global.opened_door2_room1 = false;
 	global.room1_firstLoad = false;
 	global.has_gravbeamer = false;
-	global.gravbeam_shots = 2;
+	global.gravbeam_shots = 3;
 	global.gravbeam_shooting = false;
 }
 

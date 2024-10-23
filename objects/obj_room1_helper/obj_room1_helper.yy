@@ -9,8 +9,8 @@
   "name":"obj_room1_helper",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"obj_room1",
+    "path":"folders/Objects/obj_room1.yy",
   },
   "parentObjectId":null,
   "persistent":false,

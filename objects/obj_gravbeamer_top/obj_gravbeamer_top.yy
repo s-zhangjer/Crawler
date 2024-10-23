@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"obj_objectives",
-    "path":"folders/Objects/obj_objectives.yy",
+    "path":"folders/Objects/obj_room1/obj_objectives.yy",
   },
   "parentObjectId":null,
   "persistent":false,
