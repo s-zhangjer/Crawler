@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_startb",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_startb",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_buttons",
-    "path":"folders/Objects/obj_buttons.yy",
+    "name":"button__objs",
+    "path":"folders/Objects/button__objs.yy",
   },
   "parentObjectId":null,
   "persistent":false,

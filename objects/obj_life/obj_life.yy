@@ -6,8 +6,8 @@
   "name":"obj_life",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"player_objs",
+    "path":"folders/Objects/player_objs.yy",
   },
   "parentObjectId":null,
   "persistent":false,

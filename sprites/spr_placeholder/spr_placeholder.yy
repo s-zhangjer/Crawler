@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"spr_metas",
-    "path":"folders/Sprites/spr_metas.yy",
+    "name":"meta_sprs",
+    "path":"folders/Sprites/meta_sprs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_gravbeamer_objective",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_gravbeamer_objective",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_objectives",
-    "path":"folders/Objects/obj_room1/obj_objectives.yy",
+    "name":"objectives",
+    "path":"folders/Objects/room1_objs/objectives.yy",
   },
   "parentObjectId":null,
   "persistent":false,

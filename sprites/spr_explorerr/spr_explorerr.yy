@@ -32,8 +32,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"spr_player_assets",
-    "path":"folders/Sprites/spr_player_assets.yy",
+    "name":"player_assets_sprs",
+    "path":"folders/Sprites/player_assets_sprs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

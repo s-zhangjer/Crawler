@@ -6,8 +6,8 @@
   "name":"obj_neuralchip_objective_room1",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_objectives",
-    "path":"folders/Objects/obj_room1/obj_objectives.yy",
+    "name":"objectives",
+    "path":"folders/Objects/room1_objs/objectives.yy",
   },
   "parentObjectId":null,
   "persistent":false,
