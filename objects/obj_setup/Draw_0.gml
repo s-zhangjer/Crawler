@@ -21,6 +21,10 @@ with(obj_light) {
 	gpu_set_blendmode_ext_sepalpha(bm_inv_dest_alpha, bm_one, bm_zero, bm_zero);
 	shader_set(shd_light);
 	shader_set_uniform_f(_u_pos, x, y);
+	shader_params = shader_get_uniform(shd_light, "light_strength");
+	shader_set_uniform_f(shader_params, 4000.);
+//	draw_self();
+//	shader_reset();
 	draw_rectangle(0, 0, 1920, 960, 0);
 	
 }

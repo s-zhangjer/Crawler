@@ -47,7 +47,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Crawler2",
   "resources":[
@@ -96,6 +96,7 @@
     {"id":{"name":"obj_wall1_destructible","path":"objects/obj_wall1_destructible/obj_wall1_destructible.yy",},},
     {"id":{"name":"obj_wall1","path":"objects/obj_wall1/obj_wall1.yy",},},
     {"id":{"name":"obj_wall2","path":"objects/obj_wall2/obj_wall2.yy",},},
+    {"id":{"name":"obj_door_top_placeholder","path":"objects/obj_door_top_placeholder/obj_door_top_placeholder.yy",},},
     {"id":{"name":"pth_baddie1_room1","path":"paths/pth_baddie1_room1/pth_baddie1_room1.yy",},},
     {"id":{"name":"pth_baddie2_room1","path":"paths/pth_baddie2_room1/pth_baddie2_room1.yy",},},
     {"id":{"name":"pth_baddie2","path":"paths/pth_baddie2/pth_baddie2.yy",},},
@@ -113,6 +114,7 @@
     {"id":{"name":"shd_light","path":"shaders/shd_light/shd_light.yy",},},
     {"id":{"name":"shd_shadow","path":"shaders/shd_shadow/shd_shadow.yy",},},
     {"id":{"name":"spr_back","path":"sprites/spr_back/spr_back.yy",},},
+    {"id":{"name":"spr_door_top_placeholder","path":"sprites/spr_door_top_placeholder/spr_door_top_placeholder.yy",},},
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_door1_opening","path":"sprites/spr_door1_opening/spr_door1_opening.yy",},},
     {"id":{"name":"spr_door2_opening","path":"sprites/spr_door2_opening/spr_door2_opening.yy",},},

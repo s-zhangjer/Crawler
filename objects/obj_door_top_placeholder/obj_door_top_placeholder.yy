@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_keycard1_top_room1",
+  "%Name":"obj_door_top_placeholder",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_keycard1_top_room1",
+  "name":"obj_door_top_placeholder",
   "overriddenProperties":[],
   "parent":{
-    "name":"objectives",
-    "path":"folders/Objects/room1_objs/objectives.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_keycard1",
-    "path":"sprites/spr_keycard1/spr_keycard1.yy",
+    "name":"spr_door_top_placeholder",
+    "path":"sprites/spr_door_top_placeholder/spr_door_top_placeholder.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

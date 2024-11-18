@@ -1,11 +1,10 @@
 //
 // Simple passthrough fragment shader
-
 varying vec2 pos;
 
 uniform vec2 u_pos;
 
-const float zz = 2004.;
+const float zz = 2000.;
 
 void main()
 {

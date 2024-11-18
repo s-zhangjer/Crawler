@@ -3,6 +3,12 @@
 global.has_neuralchip_room1 = true;
 
 obj_neuralchip_objective_room1.visible = true;
+	
+alarm[0] = room_speed;
+instance_create_layer(obj_player.x, obj_player.y, "instances_fow", obj_movinglight_player);
+instance_create_layer(obj_player.x, obj_player.y, "instances_fow", obj_movinglight_player);
+instance_create_layer(obj_player.x, obj_player.y, "instances_fow", obj_movinglight_player);
+
 instance_destroy(obj_dialogue);
 var _inst = instance_create_layer(96, 320, "instances_top", obj_dialogue);
 with(_inst)
