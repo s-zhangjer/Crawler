@@ -69,7 +69,7 @@
     {"name":"obj_wall1_destructible","order":8,"path":"objects/obj_wall1_destructible/obj_wall1_destructible.yy",},
     {"name":"obj_wall1","order":2,"path":"objects/obj_wall1/obj_wall1.yy",},
     {"name":"obj_wall2","order":3,"path":"objects/obj_wall2/obj_wall2.yy",},
-    {"name":"obj_door_top_placeholder","order":39,"path":"objects/obj_door_top_placeholder/obj_door_top_placeholder.yy",},
+    {"name":"obj_door_top_placeholder","order":9,"path":"objects/obj_door_top_placeholder/obj_door_top_placeholder.yy",},
     {"name":"pth_baddie1_room1","order":3,"path":"paths/pth_baddie1_room1/pth_baddie1_room1.yy",},
     {"name":"pth_baddie2_room1","order":4,"path":"paths/pth_baddie2_room1/pth_baddie2_room1.yy",},
     {"name":"pth_baddie2","order":1,"path":"paths/pth_baddie2/pth_baddie2.yy",},
