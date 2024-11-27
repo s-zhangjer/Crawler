@@ -17,6 +17,8 @@ if(global.room1_firstLoad){
 	global.has_gravbeamer = false;
 	global.gravbeam_shots = 3;
 	global.gravbeam_shooting = false;
+	
+	global.destroyed_destructible_wall = false;
 }
 
 
