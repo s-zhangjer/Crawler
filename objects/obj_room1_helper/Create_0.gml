@@ -8,6 +8,7 @@ function createLives() {
 }
 
 if(global.room1_firstLoad){
+	global.destroyed_destructible_wall = false;
 	global.has_keycard1_room1 = false;
 	global.has_neuralchip_room1 = false;
 	global.opened_door1_room1 = false;
@@ -15,10 +16,8 @@ if(global.room1_firstLoad){
 	global.opened_door2_room1 = false;
 	global.room1_firstLoad = false;
 	global.has_gravbeamer = false;
-	global.gravbeam_shots = 3;
+	global.gravbeam_shots = 5;
 	global.gravbeam_shooting = false;
-	
-	global.destroyed_destructible_wall = false;
 }
 
 

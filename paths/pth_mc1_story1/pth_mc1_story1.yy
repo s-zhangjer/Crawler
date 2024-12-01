@@ -1,0 +1,18 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_mc1_story1",
+  "closed":false,
+  "kind":0,
+  "name":"pth_mc1_story1",
+  "parent":{
+    "name":"story1_pths",
+    "path":"folders/Paths/story1_pths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":-32.0,"y":480.0,},
+    {"speed":100.0,"x":1952.0,"y":480.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

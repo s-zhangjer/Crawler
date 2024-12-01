@@ -11,4 +11,6 @@ text_y = 32;
 char_current = 1;
 char_speed = 0.25;
 
+goto_nexttext = false;
+
 text[text_current] = scr_string_wrap(text[text_current], text_width);

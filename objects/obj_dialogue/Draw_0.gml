@@ -13,6 +13,12 @@ if (char_current < _len)
 var _str = string_copy(text[text_current], 1, char_current);
 draw_text(text_x, text_y,  _str);
 
+if(global.text_autoadvance && char_current >= _len && !goto_nexttext) {
+	show_debug_message("a");
+	goto_nexttext = true;
+	alarm[0] = 3 * game_get_speed(gamespeed_fps);
+}
+
 draw_set_font(fnt_dialogue);
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);

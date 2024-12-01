@@ -7,6 +7,10 @@ if(sprite_index != spr_player2r)
 	sprite_index = spr_player2r;
 	image_speed = 1;
 }
+if(image_speed = 0) 
+{
+	image_speed = 1;
+}
 
 if(place_free(x + my_speed, y)){
 	x += my_speed;
