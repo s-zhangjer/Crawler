@@ -11,7 +11,7 @@ if(global.has_gravbeamer){
 	{
 		text[0] = "This is your Grav-Beamer.";
 		text[1] = "You can use it to destroy damaged walls.";
-		text[2] = "There's only 2 shots loaded into it - make them count!";
+		text[2] = "There's only a few shots loaded into it - make them count!";
 		text[3] = "";
 		text_last = 3;
 		text_width = 256;

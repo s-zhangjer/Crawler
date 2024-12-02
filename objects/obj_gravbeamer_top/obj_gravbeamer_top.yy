@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_gravbeamer",
-    "path":"sprites/spr_gravbeamer/spr_gravbeamer.yy",
+    "name":"spr_objective_top",
+    "path":"sprites/spr_objective_top/spr_objective_top.yy",
   },
   "spriteMaskId":null,
   "visible":true,

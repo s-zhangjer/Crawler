@@ -27,7 +27,7 @@ if(!global.has_neuralchip_room1) {
 	{
 		text[0] = "Wake up!";
 		text[1] = "You've been asleep forever!";
-		text[2] = "I've taken the liberty of highlighting your neuralchip.";
+		text[2] = "I've highlighted where your neuralchip is.";
 		text[3] = "Go find it!";
 		text[4] = "";
 		text_last = 4;

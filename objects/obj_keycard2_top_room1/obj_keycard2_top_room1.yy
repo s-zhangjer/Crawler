@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_keycard2",
-    "path":"sprites/spr_keycard2/spr_keycard2.yy",
+    "name":"spr_objective_top",
+    "path":"sprites/spr_objective_top/spr_objective_top.yy",
   },
   "spriteMaskId":null,
   "visible":true,
