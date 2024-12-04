@@ -50,7 +50,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Crawler2",
   "resources":[
@@ -72,6 +72,7 @@
     {"id":{"name":"obj_door2_top","path":"objects/obj_door2_top/obj_door2_top.yy",},},
     {"id":{"name":"obj_door2","path":"objects/obj_door2/obj_door2.yy",},},
     {"id":{"name":"obj_exit1","path":"objects/obj_exit1/obj_exit1.yy",},},
+    {"id":{"name":"obj_floatingthing","path":"objects/obj_floatingthing/obj_floatingthing.yy",},},
     {"id":{"name":"obj_fow","path":"objects/obj_fow/obj_fow.yy",},},
     {"id":{"name":"obj_globals","path":"objects/obj_globals/obj_globals.yy",},},
     {"id":{"name":"obj_gravbeam_explosion","path":"objects/obj_gravbeam_explosion/obj_gravbeam_explosion.yy",},},
@@ -106,6 +107,7 @@
     {"id":{"name":"obj_wall1_destructible","path":"objects/obj_wall1_destructible/obj_wall1_destructible.yy",},},
     {"id":{"name":"obj_wall1","path":"objects/obj_wall1/obj_wall1.yy",},},
     {"id":{"name":"obj_wall2","path":"objects/obj_wall2/obj_wall2.yy",},},
+    {"id":{"name":"obj_fallingblock","path":"objects/obj_fallingblock/obj_fallingblock.yy",},},
     {"id":{"name":"pth_baddie1_room1","path":"paths/pth_baddie1_room1/pth_baddie1_room1.yy",},},
     {"id":{"name":"pth_baddie2_room1","path":"paths/pth_baddie2_room1/pth_baddie2_room1.yy",},},
     {"id":{"name":"pth_baddie2","path":"paths/pth_baddie2/pth_baddie2.yy",},},
@@ -139,6 +141,8 @@
     {"id":{"name":"spr_explorerl","path":"sprites/spr_explorerl/spr_explorerl.yy",},},
     {"id":{"name":"spr_explorerr","path":"sprites/spr_explorerr/spr_explorerr.yy",},},
     {"id":{"name":"spr_exploreru","path":"sprites/spr_exploreru/spr_exploreru.yy",},},
+    {"id":{"name":"spr_fallingblock","path":"sprites/spr_fallingblock/spr_fallingblock.yy",},},
+    {"id":{"name":"spr_floatingthing","path":"sprites/spr_floatingthing/spr_floatingthing.yy",},},
     {"id":{"name":"spr_fow_1","path":"sprites/spr_fow_1/spr_fow_1.yy",},},
     {"id":{"name":"spr_fow_2","path":"sprites/spr_fow_2/spr_fow_2.yy",},},
     {"id":{"name":"spr_globals","path":"sprites/spr_globals/spr_globals.yy",},},
