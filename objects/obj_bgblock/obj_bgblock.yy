@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_fallingblock",
+  "%Name":"obj_bgblock",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_mc_story1","path":"objects/obj_mc_story1/obj_mc_story1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_fallingblock",
+  "name":"obj_bgblock",
   "overriddenProperties":[],
   "parent":{
     "name":"rm_story1_objs",
@@ -32,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_fallingblock",
-    "path":"sprites/spr_fallingblock/spr_fallingblock.yy",
+    "name":"spr_bgblock",
+    "path":"sprites/spr_bgblock/spr_bgblock.yy",
   },
   "spriteMaskId":null,
   "visible":true,
