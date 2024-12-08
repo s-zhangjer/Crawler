@@ -8,6 +8,7 @@ if(falling) {
 	y += 5;
 }
 
-if(y > 960) {
-	instance_destroy();
+if(offscreen_check && y > 960) {
+	instance_create_layer(0, 0, "instances_top", obj_vignette);
+	offscreen_check = false;
 }

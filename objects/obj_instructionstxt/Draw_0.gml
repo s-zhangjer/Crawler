@@ -5,6 +5,7 @@ draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 draw_set_colour(c_white);
 
-draw_text(700, 348,  "Arrow Keys to Move");
-draw_text(700, 448,  "Enter for Dialog");
-draw_text(700, 548,  "Space to Fire");
+draw_text(700, 148,  "Arrow Keys to Move");
+draw_text(700, 198,  "Enter for Dialog");
+draw_text(700, 248,  "Space to Fire");
+draw_text(700, 448,  "Enable Auto-Advance Text:");

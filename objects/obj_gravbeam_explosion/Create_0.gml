@@ -15,16 +15,16 @@ if(obj_player.sprite_index = spr_player2l) {
 
 if(movement_dir == "left"){
 	image_angle = 180;
-	x -= 48;
+	x -= 36;
 } else if (movement_dir == "right") {
 	image_angle = 0;
-	x += 48;
+	x += 36;
 } else if (movement_dir == "up") {
 	image_angle = 90;
-	y -= 48;
+	y -= 36;
 } else if (movement_dir == "down") {
 	image_angle = 270;
-	y += 48;
+	y += 36;
 }
 
 image_speed = 0.5;

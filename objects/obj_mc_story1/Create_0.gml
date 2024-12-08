@@ -3,4 +3,5 @@
 image_speed = 0.5;
 falling = false;
 moving = true;
+offscreen_check = true;
 //path_start(pth_mc1_story1, 1, path_action_continue, true);
