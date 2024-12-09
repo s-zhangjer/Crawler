@@ -91,6 +91,7 @@
     {"id":{"name":"obj_door4","path":"objects/obj_door4/obj_door4.yy",},},
     {"id":{"name":"obj_exclamation","path":"objects/obj_exclamation/obj_exclamation.yy",},},
     {"id":{"name":"obj_exit1","path":"objects/obj_exit1/obj_exit1.yy",},},
+    {"id":{"name":"obj_exit2","path":"objects/obj_exit2/obj_exit2.yy",},},
     {"id":{"name":"obj_fallingblock","path":"objects/obj_fallingblock/obj_fallingblock.yy",},},
     {"id":{"name":"obj_floatingcar","path":"objects/obj_floatingcar/obj_floatingcar.yy",},},
     {"id":{"name":"obj_fow","path":"objects/obj_fow/obj_fow.yy",},},
@@ -158,6 +159,7 @@
     {"id":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"id":{"name":"rm_story1","path":"rooms/rm_story1/rm_story1.yy",},},
+    {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
     {"id":{"name":"scr_string_wrap","path":"scripts/scr_string_wrap/scr_string_wrap.yy",},},
     {"id":{"name":"shd_light","path":"shaders/shd_light/shd_light.yy",},},
     {"id":{"name":"shd_shadow","path":"shaders/shd_shadow/shd_shadow.yy",},},
@@ -240,6 +242,7 @@
     {"roomId":{"name":"rm_instructions","path":"rooms/rm_instructions/rm_instructions.yy",},},
     {"roomId":{"name":"rm_lose","path":"rooms/rm_lose/rm_lose.yy",},},
     {"roomId":{"name":"rm_story1","path":"rooms/rm_story1/rm_story1.yy",},},
+    {"roomId":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
