@@ -6,8 +6,8 @@
   "name":"obj_wall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"fow_objs",
+    "path":"folders/Objects/fow_objs.yy",
   },
   "parentObjectId":null,
   "persistent":false,

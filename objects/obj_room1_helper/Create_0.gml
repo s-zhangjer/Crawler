@@ -3,7 +3,7 @@
 
 function createLives() {
 	for(i = 0; i < lives; i++) {
-		instance_create_layer(128 + 96 * i, 160, "instances_top", obj_life);
+		instance_create_layer(128 + 96 * i, 160, "instances_top_tray", obj_life);
 	}
 }
 
@@ -22,7 +22,7 @@ if(global.room1_firstLoad){
 
 
 if(!global.has_neuralchip_room1) {
-	var _inst = instance_create_layer(96, 320, "instances_top", obj_dialogue);
+	var _inst = instance_create_layer(96, 320, "instances_top_tray", obj_dialogue);
 	with(_inst)
 	{
 		text[0] = "Wake up!";

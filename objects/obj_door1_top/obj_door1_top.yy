@@ -9,8 +9,8 @@
   "name":"obj_door1_top",
   "overriddenProperties":[],
   "parent":{
-    "name":"obstacle_objs",
-    "path":"folders/Objects/obstacle_objs.yy",
+    "name":"room1_obs_objs",
+    "path":"folders/Objects/obstacle_objs/room1_obs_objs.yy",
   },
   "parentObjectId":null,
   "persistent":false,

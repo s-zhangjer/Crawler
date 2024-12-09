@@ -6,7 +6,7 @@ if(global.has_gravbeamer){
 	instance_destroy()
 	obj_gravbeamer_objective.visible = true;
 	
-	var _inst = instance_create_layer(96, 320, "instances_top", obj_dialogue);
+	var _inst = instance_create_layer(96, 320, "instances_top_tray", obj_dialogue);
 	with(_inst)
 	{
 		text[0] = "This is your Grav-Beamer.";

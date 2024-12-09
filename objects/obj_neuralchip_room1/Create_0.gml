@@ -10,7 +10,7 @@ if(global.has_neuralchip_room1){
 	
 	if(!global.has_gravbeamer)
 	{
-		var _inst = instance_create_layer(96, 320, "instances_top", obj_dialogue);
+		var _inst = instance_create_layer(96, 320, "instances_top_tray", obj_dialogue);
 		with(_inst)
 		{
 			text[0] = "Your neuralchip should tell you where everything is.";

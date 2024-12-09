@@ -7,3 +7,5 @@ down_keydown = false;
 
 my_speed = 4;
 image_speed = 0;
+
+vision_enhanced = false;

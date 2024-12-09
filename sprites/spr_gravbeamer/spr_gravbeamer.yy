@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"player_assets_sprs",
-    "path":"folders/Sprites/player_assets_sprs.yy",
+    "name":"objective_sprs",
+    "path":"folders/Sprites/room1_sprs/objective_sprs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
