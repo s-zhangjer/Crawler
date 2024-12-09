@@ -21,8 +21,8 @@
     {"$GMFolder":"","%Name":"fow_objs","folderPath":"folders/Objects/fow_objs.yy","name":"fow_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"meta_objs","folderPath":"folders/Objects/meta_objs.yy","name":"meta_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"obstacle_objs","folderPath":"folders/Objects/obstacle_objs.yy","name":"obstacle_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"room2_obs_objs","folderPath":"folders/Objects/obstacle_objs/room2_obs_objs.yy","name":"room2_obs_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"room1_obs_objs","folderPath":"folders/Objects/obstacle_objs/room1_obs_objs.yy","name":"room1_obs_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"room2_obs_objs","folderPath":"folders/Objects/obstacle_objs/room2_obs_objs.yy","name":"room2_obs_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"player_objs","folderPath":"folders/Objects/player_objs.yy","name":"player_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"rm_story1_objs","folderPath":"folders/Objects/rm_story1_objs.yy","name":"rm_story1_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"room1_objs","folderPath":"folders/Objects/room1_objs.yy","name":"room1_objs","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -57,7 +57,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Crawler2",
   "resources":[

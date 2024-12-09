@@ -9,9 +9,9 @@ if(global.has_implosionbomb){
 	var _inst = instance_create_layer(96, 320, "instances_top_tray", obj_dialogue);
 	with(_inst)
 	{
-		text[0] = "This is your Grav-Beamer.";
-		text[1] = "You can use it to destroy damaged walls.";
-		text[2] = "There's only a few shots loaded into it - make them count!";
+		text[0] = "This is an implosion bomb.";
+		text[1] = "It can destroy certain walls your Gravbeamer can't.";
+		text[2] = "Make good use of it!";
 		text[3] = "";
 		text_last = 3;
 		text_width = 256;

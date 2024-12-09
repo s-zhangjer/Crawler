@@ -8,7 +8,7 @@ if(global.has_neuralchip_room2){
 	instance_destroy()
 	obj_neuralchip_objective_room2.visible = true;
 	
-	if(true)
+	if(!global.has_implosionbomb)
 	{
 		var _inst = instance_create_layer(96, 320, "instances_top_tray", obj_dialogue);
 		with(_inst)
