@@ -17,7 +17,7 @@ if(global.room2_firstLoad) {
 
 }
 
-if(!global.has_neuralchip_room2) {
+if(!global.has_implosionbomb && !global.has_neuralchip_room2) {
 	var _inst = instance_create_layer(96, 320, "instances_top_tray", obj_dialogue);
 	with(_inst)
 	{

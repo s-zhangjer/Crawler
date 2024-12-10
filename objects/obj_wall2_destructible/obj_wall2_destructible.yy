@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_wall2",
-    "path":"sprites/spr_wall2/spr_wall2.yy",
+    "name":"spr_wall2_destructible",
+    "path":"sprites/spr_wall2_destructible/spr_wall2_destructible.yy",
   },
   "spriteMaskId":null,
   "visible":true,

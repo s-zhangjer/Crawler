@@ -17,3 +17,6 @@ if(distance_to_object(obj_player) < sight_range) {
 	}
 	
 }
+else {
+	angle += 0.3;
+}
