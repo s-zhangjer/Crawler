@@ -14,10 +14,12 @@ if(global.room2_firstLoad) {
 	global.opened_door3_room2 = false;
 	global.opened_door4_room2 = false;
 	global.has_implosionbomb = false;
+	global.has_key5 = false;
+	global.opened_door5_room2 = false;
 
 }
 
-if(!global.has_implosionbomb && !global.has_neuralchip_room2) {
+if(!global.has_key5 && !global.has_implosionbomb && !global.has_neuralchip_room2) {
 	var _inst = instance_create_layer(96, 320, "instances_top_tray", obj_dialogue);
 	with(_inst)
 	{

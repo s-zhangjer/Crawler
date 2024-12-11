@@ -15,3 +15,7 @@ if(global.opened_door4_room2) {
 if(global.destroyed_destructible_wall) {
 	instance_destroy(inst_17A0FB76);
 }
+
+if(global.opened_door5_room2) {
+	instance_destroy(inst_2094F6FE);
+}

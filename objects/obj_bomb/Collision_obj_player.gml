@@ -3,7 +3,7 @@
 global.has_implosionbomb = true;
 
 obj_bomb_objective.visible = true;
-instance_destroy(obj_gravbeamer_top);
+instance_destroy(obj_bomb_top);
 instance_destroy()
 
 instance_destroy(obj_dialogue);
