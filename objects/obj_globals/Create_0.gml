@@ -3,6 +3,7 @@
 lives = 3;
 
 global.text_autoadvance = false;
+global.show_nextobjective = true;
 
 global.room1_firstLoad = true;
 global.room2_firstLoad = true;

@@ -3,4 +3,4 @@
 image_alpha_increasing = true;
 image_speed = 0;
 image_alpha = 0;
-image_angle = 90;
+image_angle = 0;

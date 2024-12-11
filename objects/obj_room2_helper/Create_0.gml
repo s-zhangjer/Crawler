@@ -16,6 +16,7 @@ if(global.room2_firstLoad) {
 	global.has_implosionbomb = false;
 	global.has_key5 = false;
 	global.opened_door5_room2 = false;
+	global.destroyed_destructible_wall2 = false;
 
 }
 

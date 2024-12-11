@@ -8,4 +8,6 @@ draw_set_colour(c_white);
 draw_text(700, 148,  "Arrow Keys to Move");
 draw_text(700, 198,  "Enter for Dialog");
 draw_text(700, 248,  "Space to Fire");
-draw_text(700, 448,  "Enable Auto-Advance Text:");
+draw_text(700, 298,  "B to Place Bomb");
+draw_text(700, 428,  "Enable Auto-Advance Text:");
+draw_text(700, 488,  "Show Suggested Next Objective:");

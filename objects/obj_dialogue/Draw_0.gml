@@ -24,4 +24,6 @@ draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 draw_set_color(c_white);
 
-draw_text(96, 448,  "Next Objective:");
+if(global.show_nextobjective) {
+	draw_text(96, 448,  "Next Objective:");
+}
