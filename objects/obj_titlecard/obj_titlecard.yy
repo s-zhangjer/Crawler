@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_titlecard_white",
+    "path":"sprites/spr_titlecard_white/spr_titlecard_white.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
