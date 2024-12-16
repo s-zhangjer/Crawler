@@ -10,9 +10,11 @@ if(distance_to_object(obj_player) < sight_range) {
 		shoot_timer--;
 		if(shoot_timer <= 0) {
 			shoot_timer = shoot_time;
-			var bullet = instance_create_layer(x, y, layer, obj_turret_bullet);
-			bullet.speed = 6;
-			bullet.direction = angle;
+			if(!instance_exists(obj_playerdeath1)) {
+				var bullet = instance_create_layer(x, y, layer, obj_turret_bullet);
+				bullet.speed = 6;
+				bullet.direction = angle;
+			}
 		}
 	}
 	
