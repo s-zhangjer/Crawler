@@ -18,3 +18,5 @@ global.has_gravbeamer = false;
 global.gravbeam_shots = 2;
 global.gravbeam_shooting = false;
 global.destroyed_destructible_wall = false;
+
+global.bgmusic_gain = 1;

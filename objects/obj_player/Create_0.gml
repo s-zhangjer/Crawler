@@ -9,3 +9,5 @@ my_speed = 4;
 image_speed = 0;
 
 vision_enhanced = false;
+
+pause_screen = false;
