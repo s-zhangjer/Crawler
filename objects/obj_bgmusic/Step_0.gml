@@ -12,10 +12,10 @@ if(room == rm_start && current_music != "start") {
 	audio_stop_all();
 	audio_play_sound(snd_gamemusic2, 10, true);
 	current_music = "game";
-} else if(room == rm_level3 && current_music != "story1") {
+} else if(room == rm_level3 && current_music != "story3") {
 	audio_stop_all();
 	audio_play_sound(snd_gamemusic, 10, true);
-	current_music = "story1";
+	current_music = "story3";
 }else if(room == rm_lose && current_music != "lose") {
 	audio_stop_all();
 	audio_play_sound(snd_losemusic, 10, true);
