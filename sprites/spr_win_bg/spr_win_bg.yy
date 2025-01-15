@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"winlose_sprs",
-    "path":"folders/Sprites/winlose_sprs.yy",
+    "name":"Crawler2",
+    "path":"Crawler2.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

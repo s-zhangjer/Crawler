@@ -9,7 +9,7 @@ if(global.has_neuralchip_room1) {
 } if (global.has_gravbeamer) {
 	image_index = 4;
 } if(global.destroyed_destructible_wall) {
-	image_index = 5;
+	image_index = 4;
 } if (global.has_keycard2_room1) {
 	image_index = 6;
 } if (global.opened_door2_room1) {
